@@ -1,0 +1,8 @@
+train: dataset/yolo_ready/train/images
+val: dataset/yolo_ready/val/images
+
+nc: 27
+
+names: ['أ', 'ب', 'ج', 'د', 'ر', 'س', 'ص', 'ط', 'ع', 'ف',
+        'ق', 'ل', 'م', 'ن', 'ھ', 'و', 'ى', '٠', '١', '٢',
+        '٣', '٤', '٥', '٦', '٧', '٨', '٩']

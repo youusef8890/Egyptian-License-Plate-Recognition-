@@ -1,0 +1,6 @@
+train: ../content/datasets/jox/Vehicles/train
+val: ../content/datasets/jox/Vehicles Labeling/val
+#number of classes
+nc: 1
+#class names
+names: ['License Plate']
