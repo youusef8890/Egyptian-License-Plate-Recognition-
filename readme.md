@@ -166,11 +166,12 @@ You can download the full training dataset used for this project from the follow
 
 
 ---
-## 🌐 Live Demo
+## 🎥 Live Demo
 
-Try a live run of the OCR system here:
 
-🚀 [Launch Live Demo]([https://your-live-demo-link.com](https://drive.google.com/file/d/1ijQsaZnpCnqJoQAa-gEGxrgQA-dqtp8o/view?usp=sharing))
+▶️ [Click here ]([https://drive.google.com/file/d/1erRCfp0apL3JeYV-N4vAiZINFMXps_R4/preview](https://drive.google.com/file/d/1ijQsaZnpCnqJoQAa-gEGxrgQA-dqtp8o/view?usp=sharing))
+
+
 ---
 
 ## 🤝 Contributing
