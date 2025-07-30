@@ -158,6 +158,20 @@ MIT License — free for personal, academic, or commercial use.
 - EALPR: Egyptian Automatic License Plate Recognition dataset
 
 ---
+## 📥 Dataset
+
+You can download the full training dataset used for this project from the following link:
+
+👉 [Download Egyptian Plate OCR Dataset (Google Drive)](https://drive.google.com/file/d/1l3P7tpLPCcI6N0p8T9uxW3NL0GJXKPnA/view?usp=drive_link)
+
+
+---
+## 🌐 Live Demo
+
+Try a live run of the OCR system here:
+
+🚀 [Launch Live Demo]([https://your-live-demo-link.com](https://drive.google.com/file/d/1ijQsaZnpCnqJoQAa-gEGxrgQA-dqtp8o/view?usp=sharing))
+---
 
 ## 🤝 Contributing
 
